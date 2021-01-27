@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include <cs50.h>
+#include <string.h>
+#define SIZE 500000
+
+int k (void)
+int n (int)
+
+int main (int arge, char*argv[])
+  {
+      int n;
+
+   scanf("%d",&n);
+ 
+  int partArr[SIZE];
+  int lengthOfPartArr=n-1;
+
+  for(int i=0;i<lengthOfPartArr;i++)
+    {
+        scanf("%d",&partArr[i]);
+        printf ("k를 제외한 숫자의 배열은?\n");
+        gets(argv[]);
+
+    }
+   
+
+    return 0;
+  }
+ 
+int k(void)
+ {   1<= k <=n;
+        int k;
+        printf ("k is %i",k);
+ }
+ int n (int)
+ {
+      printf ("what is n?\n");
+      gets(int);
+    }
